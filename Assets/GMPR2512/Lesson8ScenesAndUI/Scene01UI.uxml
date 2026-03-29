@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ui:UXML
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ui="UnityEngine.UIElements"
+    xmlns:uie="UnityEditor.UIElements"
+    xsi:noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd"
+>
+    <ui:Style src="Scene01UI.uss"/>
+
+    <ui:VisualElement class="menu-container">
+        <ui:Button text="Start Game" name="startBtn" class="menu-button"/>
+        <ui:Button text="Options" name="optionsBtn" class="menu-button"/>
+        <ui:Button text="Credits" name="creditsBtn" class="menu-button"/>
+        <ui:Button text="Exit" name="exitBtn" class="menu-button"/>
+    </ui:VisualElement>
+
+</ui:UXML>

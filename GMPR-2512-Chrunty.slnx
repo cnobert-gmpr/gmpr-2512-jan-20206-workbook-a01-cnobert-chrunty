@@ -1,3 +1,8 @@
 ﻿<Solution>
-  <Project Path="NewAssembly.csproj" />
+  <Project Path="GMPR2512.Lesson05Coroutines01.csproj" />
+  <Project Path="GMPR2512.Lesson04Scripting01.csproj" />
+  <Project Path="GMPR2512.Lesson06Pinball01.csproj" />
+  <Project Path="GMPR2512.csproj" />
+  <Project Path="GMPR2512.Lesson01.csproj" />
+  <Project Path="GMPR2512.Lesson02.csproj" />
 </Solution>

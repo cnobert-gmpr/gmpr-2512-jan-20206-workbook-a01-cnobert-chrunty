@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace GMPR_2512.Lesson_01
+namespace GMPR2512.Lesson_01
 {
     public class Square : MonoBehaviour
     {
