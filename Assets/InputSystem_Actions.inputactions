@@ -55,7 +55,7 @@
                     "name": "Jump",
                     "type": "Button",
                     "id": "f1ba0d36-48eb-4cd5-b651-1c94a6531f70",
-                    "expectedControlType": "",
+                    "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -64,7 +64,7 @@
                     "name": "Previous",
                     "type": "Button",
                     "id": "2776c80d-3c14-4091-8c56-d04ced07a2b0",
-                    "expectedControlType": "",
+                    "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -90,7 +90,7 @@
                 {
                     "name": "Rotate",
                     "type": "Button",
-                    "id": "056e3468-c33d-4108-9806-9fdb230f4e8f",
+                    "id": "3233de90-02ad-489f-907e-bd309ee8596e",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -99,7 +99,7 @@
                 {
                     "name": "Fire2",
                     "type": "Button",
-                    "id": "e5bfdb63-4927-4a69-8fff-e65d3ae814b9",
+                    "id": "177fa318-7f68-4d74-9db7-4a5bc6a2c8a2",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -493,8 +493,19 @@
                     "isPartOfComposite": false
                 },
                 {
+                    "name": "",
+                    "id": "1cf18910-eb74-4aa4-83ed-e034212b45a2",
+                    "path": "<Keyboard>/f",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Fire2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
                     "name": "1D Axis",
-                    "id": "0ea47513-c0f7-41ee-96fe-0d9436bba798",
+                    "id": "ffb46397-7e91-449a-9ebe-a2b592ae3a96",
                     "path": "1DAxis",
                     "interactions": "",
                     "processors": "",
@@ -504,19 +515,8 @@
                     "isPartOfComposite": false
                 },
                 {
-                    "name": "Positive",
-                    "id": "93c3463e-3bae-48e6-82dc-d26121200422",
-                    "path": "<Keyboard>/q",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Rotate",
-                    "isComposite": false,
-                    "isPartOfComposite": true
-                },
-                {
-                    "name": "Negative",
-                    "id": "935784ad-0c17-4e56-b988-045c57c9174e",
+                    "name": "negative",
+                    "id": "f0cf77de-12f3-4706-80fa-eef8f8c21294",
                     "path": "<Keyboard>/e",
                     "interactions": "",
                     "processors": "",
@@ -526,15 +526,15 @@
                     "isPartOfComposite": true
                 },
                 {
-                    "name": "",
-                    "id": "6f66f60c-6897-4c1e-bdb5-079daafbf53e",
-                    "path": "<Keyboard>/f",
+                    "name": "positive",
+                    "id": "f96e5c16-a526-4a41-81f0-256b7753dea7",
+                    "path": "<Keyboard>/q",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Fire2",
+                    "action": "Rotate",
                     "isComposite": false,
-                    "isPartOfComposite": false
+                    "isPartOfComposite": true
                 }
             ]
         },

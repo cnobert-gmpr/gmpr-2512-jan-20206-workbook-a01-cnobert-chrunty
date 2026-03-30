@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 78831b91d4de80b4b9aeb95296af480c
+  productGUID: 19260b61d3bd0c446996d36086b0130a
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: GMPR - 2512 - GitHub Workbook
+  productName: SpaceInvaders
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -114,6 +114,7 @@ PlayerSettings:
   xboxEnableGuest: 0
   xboxEnablePIXSampling: 0
   metalFramebufferOnly: 0
+  metalUseMetalDisplayLink: 0
   xboxOneResolution: 0
   xboxOneSResolution: 0
   xboxOneXResolution: 3
@@ -604,14 +605,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: GMPR - 2512 - GitHub Workbook
+  metroPackageName: SpaceInvaders
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: GMPR - 2512 - GitHub Workbook
+  metroApplicationDescription: SpaceInvaders
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -680,12 +681,12 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 2
+  activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 5a95fa8b-9694-4622-be7f-e0e2fd1a2b50
+  cloudProjectId: d49902bf-c3c0-4be4-a199-0c3d64bec11c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: GMPR - 2512 - GitHub Workbook
+  projectName: SpaceInvaders
   organizationId: chrisbybrisket
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
